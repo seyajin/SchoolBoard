@@ -8,6 +8,9 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 public class MainActivity extends Activity {
+	/**
+	 * WebView show main content.
+	 */
 	private WebView mWebView;
 	
 	@Override
